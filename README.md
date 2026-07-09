@@ -208,16 +208,6 @@ habit_tracker/
 - Ограничение частоты запросов (rate limiting)
 - HTTPS для продакшен среды
 
-## 👤 Автор
-
-**Ivan Romanov**
-
----
-*Создано с ❤️ для обучения и развития*
----
-
-**Habit Tracker Bot** © 2025 - Помогаем формировать полезные привычки каждый день! 💪✨
-
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/your_bot_username)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)](https://www.docker.com/)
